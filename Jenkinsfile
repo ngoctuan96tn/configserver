@@ -1,3 +1,4 @@
+pipeline {
 node {
     stage('clone git') {
         checkout scm
@@ -9,4 +10,5 @@ node {
             echo 'done'
         }
     }
+}
 }
