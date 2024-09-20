@@ -1,2 +1,4 @@
-app:
-  message: "Hello from application!"
+server:
+  port: 8081
+
+message: Default Message
