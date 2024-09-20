@@ -1,2 +1,4 @@
-app:
-  message: "Hello from service-one in DEV!"
+server:
+  port: 8081
+
+message: Message From Dev
