@@ -1,6 +1,5 @@
 server:
   port: 8082
-  contextPath: service-lab
 spring:
   application:
     name: service-lab
